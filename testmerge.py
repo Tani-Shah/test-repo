@@ -5,3 +5,4 @@ def greet(name):
     print("hello"+name)
 
 greet('tani')
+print('how are you?')
